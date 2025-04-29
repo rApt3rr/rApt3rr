@@ -1,5 +1,5 @@
-## Hi there 👋
-Shaneth Dehipitiya
+## Shaneth Dehipitiya
+
 👨‍💻 Computer Science Student | Full-Stack Developer | Cloud & AI Enthusiast
 
 Hi there! I'm a Computer Science student at the University of Manitoba with hands-on experience in full-stack development, cloud architecture, and AI/ML systems. I focus on building scalable applications using modern technologies and frameworks.

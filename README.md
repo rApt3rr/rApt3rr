@@ -5,6 +5,7 @@ Shaneth Dehipitiya
 Hi there! I'm a Computer Science student at the University of Manitoba with hands-on experience in full-stack development, cloud architecture, and AI/ML systems. I focus on building scalable applications using modern technologies and frameworks.
 
 🛠️ Technical Skills
+
 Languages: Python, Java, JavaScript, C++, SQL
 Cloud: Azure (Load Balancer, AI Models), GCP (AutoML, Maps API), AWS
 Frameworks: React.js, Node.js, Flask
